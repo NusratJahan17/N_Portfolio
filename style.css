@@ -243,8 +243,7 @@ nav a {
     transition: 0.25s;
 }
 
-nav a:hover,
-nav a.active {
+nav a:hover {
     color: #fff;
     background: linear-gradient(
         90deg,
